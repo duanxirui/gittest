@@ -11,4 +11,8 @@ class index extends indexClass {
     function __construct(){
         echo 'skdhfkj';
     }
+
+    public function index(){
+    	echo "index 方法";
+    }
 }

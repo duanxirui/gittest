@@ -6,7 +6,7 @@
  * @version $Id$
  */
 
-class ClassName extends AnotherClass {
+class index extends indexClass {
     
     function __construct(){
         echo 'skdhfkj';
